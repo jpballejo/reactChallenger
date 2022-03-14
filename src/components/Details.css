@@ -1,0 +1,9 @@
+.infoList {
+    display: inline-flex;
+}
+p {
+    margin: 20px;
+}
+.itemList {
+    margin: 10px;
+}
